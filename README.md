@@ -1,4 +1,4 @@
 zdd_java
 ========
 
-Zero suppressed decision tree implemented by using Java
+Zero-suppressed binary decision diagram implemented by using Java
